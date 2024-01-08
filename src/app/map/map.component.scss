@@ -1,0 +1,14 @@
+#map-component{
+    height: 100vh;
+    border: 1px solid red;
+    width: 80vw;
+
+    .map-frame {
+        border: 2px solid black;
+        height: 100%;
+    }
+      
+    #map {
+        height: 100%;
+    }
+}
